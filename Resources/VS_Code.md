@@ -11,7 +11,7 @@ Download from: https://code.visualstudio.com
 
 ## 2. Install a C++ Compiler
 
-- **Windows:** Install [MinGW-w64](https://www.mingw-w64.org) or use WSL with `g++` pre-installed.
+- **Windows:** Install [MSYS-2]
 - **macOS:** Install Xcode Command Line Tools:
   ```bash
   xcode-select --install
